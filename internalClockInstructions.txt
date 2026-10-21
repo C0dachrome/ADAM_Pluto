@@ -1,0 +1,3 @@
+fw_setenv refclk_source external
+fw_setenv ad936x_ext_refclk_override "<FREQUENCY_IN_HZ>"
+pluto_reboot reset
